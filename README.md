@@ -1,3 +1,7 @@
+ПОКА РОУТИНГ ДОБАВЛЯЛ НА СТРАНИЦЫ
+СЕЙЧАС ЗАНИИМАЮСЬ КОМПОНЕНТОМ ПОСИКА 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
